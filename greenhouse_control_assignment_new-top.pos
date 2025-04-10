@@ -1,0 +1,10 @@
+### Footprint positions - created on 2025-04-10T23:03:50+0530 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                             PosX       PosY       Rot  Side
+DS1       WC1602A                      WC1602A                          79.0000   -54.5000    0.0000  top
+U2        DHT11                        Aosong_DHT11_5.5x12.0_P2.54mm   101.3950   -91.9300    0.0000  top
+U4        AMS1117                      SOT-223-3_TabPin2               109.8400   -92.9700    0.0000  top
+U5        Olimex_MOD-WIFI-ESP8266-DEV  Olimex_MOD-WIFI-ESP8266-DEV      83.9500  -103.7650    0.0000  top
+## End

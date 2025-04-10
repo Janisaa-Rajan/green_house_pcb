@@ -1,0 +1,24 @@
+Front (top side) placement file: 'C:\Users\janis\OneDrive\Desktop\GERBER_ES\greenhouse_control_assignment_new-top.pos'.
+Info: Component count: 4.
+Back (bottom side) placement file: 'C:\Users\janis\OneDrive\Desktop\GERBER_ES\greenhouse_control_assignment_new-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 4.
+Info: Done.
+Front (top side) placement file: 'C:\Users\janis\OneDrive\Desktop\GERBER_ES\greenhouse_control_assignment_new-top.pos'.
+Info: Component count: 4.
+Back (bottom side) placement file: 'C:\Users\janis\OneDrive\Desktop\GERBER_ES\greenhouse_control_assignment_new-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 4.
+Info: Done.
+Front (top side) placement file: 'C:\Users\janis\OneDrive\Desktop\GERBER_ES\greenhouse_control_assignment_new-top.pos'.
+Info: Component count: 4.
+Back (bottom side) placement file: 'C:\Users\janis\OneDrive\Desktop\GERBER_ES\greenhouse_control_assignment_new-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 4.
+Info: Done.
+Front (top side) placement file: 'C:\Users\janis\OneDrive\Desktop\GERBER_ES\greenhouse_control_assignment_new-top.pos'.
+Info: Component count: 4.
+Back (bottom side) placement file: 'C:\Users\janis\OneDrive\Desktop\GERBER_ES\greenhouse_control_assignment_new-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 4.
+Info: Done.

@@ -1,0 +1,23 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-F_Cu.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-B_Cu.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-F_Paste.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-B_Paste.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-F_Mask.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-B_Mask.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-job.gbrjob'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-F_Cu.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-B_Cu.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-F_Paste.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-B_Paste.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-F_Mask.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-B_Mask.gbr'.
+Plotted to 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\janis\OneDrive\Desktop\pro1\green_house_assign\greenhouse_control_assignment_new\greenhouse_control_assignment_new-backups\greenhouse_control_assignment_new-job.gbrjob'.
+Info: Done.
+Info: Done.
